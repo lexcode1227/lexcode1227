@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [github.com/lexcode1227](https://github.com/lexcode1227)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-react-three-chi.vercel.app/)
 
-- 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1fsNZbiiumAbDWkRSkFm3hi4RLlS6QAZj/view?usp=sharing)
+- 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1FT6_UQ9u2qC_D1TqIgd85CTvKRw01YJW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
