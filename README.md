@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-react-three-chi.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://henryagustindev.vercel.app/)
 
-- 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1FT6_UQ9u2qC_D1TqIgd85CTvKRw01YJW/view?usp=sharing)
+- 📄 Know about my experiences [Download CV](https://drive.google.com/file/d/1ERUpqbVLxujoNMWAdh-vcfUKYbrbY-DI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
